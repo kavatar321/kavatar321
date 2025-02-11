@@ -86,9 +86,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/kavatar321/kavatar321/output/snake.svg" alt="Snake animation" />
-
-###
